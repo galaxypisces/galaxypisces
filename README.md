@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sujita
 - 👀 I’m interested in Data Science, AI and ML
-- 🌱 I’m currently learning the different models and their usage predominantly.
+- 🌱 I’m currently learning the different models and their applications.
 - 📫 How to reach me sujitacheeti81@gmail.com
 
 <!---
